@@ -1,0 +1,3 @@
+[submodule "Marlin"]
+	path = megatronics30_motionController/Marlin
+	url = https://github.com/muccc/Marlin
